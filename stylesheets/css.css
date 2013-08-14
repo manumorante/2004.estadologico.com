@@ -1,0 +1,171 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 3:14:49 feb 17, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:25:53 ago 14, 2013.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+a:link {
+	color: #0A84B1;
+	text-decoration: none;
+}
+a:visited {
+	color: #0A84B1;
+	text-decoration: none;
+}
+a:hover {
+	color: #0A84B1;
+}
+a:active {
+	color: #F1881D;
+}
+A.blanco:visited {
+	color:#ffffff;
+	text-decoration: none;
+} 
+A.blanco:active {
+	color:#ffffff;
+	text-decoration: none;
+} 
+A.blanco:link {
+	text-decoration: none;
+	color:#ffffff;
+} 
+A.blanco:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+A.color:visited {
+	color:#C96B13;
+	text-decoration: none;
+} 
+A.color:active {
+	color:#C96B13;
+	text-decoration: none;
+} 
+A.color:link {
+	text-decoration: none;
+	color:#C96B13;
+} 
+A.color:hover {
+	color: #C96B13;
+	text-decoration: none;
+}
+
+table, tr, td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+}
+.mini {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+}
+.titulo {
+	font-family: Tahoma, Verdana;
+	font-size: 14pt;
+	color: #1194CA;
+}
+.autor {
+	color: #666666;
+	font-style: italic;
+}
+.cliente {
+	font-style: italic;
+	color: #CC6600;
+	font-size: 8pt;
+}
+.infoIcono {
+	padding-top: 12px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+.tipoTrabajo {
+	font-size: 8pt;
+	color: #666666;
+}
+.miniGris {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #CCCCCC;
+}
+.satelite {
+	background-image: url(../images/satelite.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.campoEntrar {
+	background-color: #F1EAE4;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #309CCB;
+	height: 15px;
+	padding-left: 3px;
+	font-size: 7pt;
+	padding-top: -4px;
+	margin: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.invisible {
+/*	visibility: hidden;*/
+	filter: Alpha(Opacity=1);
+}
+.campo {
+	background-image: url(../images/bg_campo.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #006699;
+	font-size: 8pt;
+	height: 18px;
+	padding-left: 3px;
+	border: 1px solid;
+	padding-top: 2px;
+	font-weight: bold;
+}
+.area {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #006699;
+	font-weight: bold;
+	font-size: 8pt;
+	padding-left: 3px;
+	padding-top: 3px;
+	border: 1px solid;
+	background-image: url(../images/bg_campo.gif);
+	background-repeat:  repeat-x;
+	background-position: top;
+}
+.boton {
+	background-image: url(../images/bg_boton.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+	height: 18px;
+	border: 1px solid #9EB0C4;
+	color: #316AC5;
+	background-color: #D4E7FF;
+}
+.tituloTrabajo {
+	color: #1194CA;
+	font-size: 8pt;
+}
+.cursiva {
+	font-style: italic;
+	color: #BB7100;
+}
+.superIndice {
+	margin-bottom: 50px;
+}
